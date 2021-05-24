@@ -1,0 +1,6 @@
+﻿  Lab12.2.cpp
+C:\Users\Oleg\source\repos\Lab12.2\Lab12.2\Lab12.2.cpp(66,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Oleg\source\repos\Lab12.2\Lab12.2\Lab12.2.cpp(72,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Oleg\source\repos\Lab12.2\Lab12.2\Lab12.2.cpp(87,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Oleg\source\repos\Lab12.2\Lab12.2\Lab12.2.cpp(61): warning C4715: 'ForwardList::operator[]': not all control paths return a value
+  Lab12.2.vcxproj -> C:\Users\Oleg\source\repos\Lab12.2\Debug\Lab12.2.exe
